@@ -3,8 +3,8 @@
 #
 # Environment config
 #
-CF_ANDROID_SDK_ROOT="${HOME}/local/opt/android-sdk-linux"
-CF_ANDROID_NDK_ROOT="${HOME}/local/opt/android-ndk-linux"
+CF_ANDROID_SDK_ROOT="${HOME}/local/opt/android-sdk"
+CF_ANDROID_NDK_ROOT="${HOME}/local/opt/android-ndk"
 
 
 #
